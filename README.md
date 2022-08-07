@@ -1,5 +1,3 @@
-# reducing-traffic-mortality
-
 # Project: Reducing Traffic Mortality Using Kmeans 
 
 Presented by : Naaima BEN KADOUR 
